@@ -1,0 +1,6 @@
+# nexus-cli
+
+dist/
+node_modules/
+.env
+*.js.map
